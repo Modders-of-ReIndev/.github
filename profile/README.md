@@ -1,12 +1,11 @@
-## Hi there 👋
+## Modders of reindev
 
-<!--
+This is a small community organisation created by [@mjarduk](https://github.com/mjarduk/) and [@Fox2Code](https://github.com/Fox2Code/) for the purpose of sharing & collaborating on projects related to ReIndev & the FoxLoader ecosystem.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- _Looking to get into ReIndev modding?_ Check out the [example mod](https://github.com/Fox2Code/FoxLoaderExampleMod/)!
+
+- _Looking to contribute to the modloader?_ Check out the [FoxLoader repo](https://github.com/Fox2Code/FoxLoader/)!
+
+- _Need a helping hand?_ Feel free to join the [official discord](https://discord.com/SF8sCuAr2e) and visit the **#programming** channel.
