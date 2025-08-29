@@ -4,7 +4,7 @@ This is a small community organisation created by [@mjarduk](https://github.com/
 
 ---
 
-- _Looking to get into ReIndev modding?_ Check out the [example mod](https://github.com/Fox2Code/FoxLoaderExampleMod/)!
+- _Looking to get into ReIndev modding?_ Check out the [example mod](https://github.com/Modders-of-ReIndev/FoxLoaderExampleMod/)!
 
 - _Looking to contribute to the modloader?_ Check out the [FoxLoader repo](https://github.com/Fox2Code/FoxLoader/)!
 
